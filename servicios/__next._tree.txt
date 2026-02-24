@@ -1,0 +1,3 @@
+:HL["/globe-services/_next/static/chunks/b7ed5c4d301552de.css","style"]
+:HL["/globe-services/images/logos/Logo globe services.png","image"]
+0:{"buildId":"nrQcVQFDjllrllyT_58IG","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"servicios","paramType":null,"paramKey":"servicios","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
